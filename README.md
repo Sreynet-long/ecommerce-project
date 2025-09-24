@@ -6,3 +6,5 @@ npm install
 npm run dev
 ```
 "# ecommerce-project" 
+"# ecommerce-project1" 
+"# ecommerce-project1" 
